@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Education"
-    url: /publications/
 
   - title: "Experiences"
     url: /talks/    
