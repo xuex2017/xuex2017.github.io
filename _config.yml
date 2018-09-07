@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xue Xia"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Xue Xia"
 description              : &description "Master of Science in Intelligent Information Systems (MIIS), School of Computer Science, Carnegie Mellon Univeristy"
