@@ -1,0 +1,15 @@
+---
+title: "Entity Embedding in Medical Text Data"
+collection: teaching
+type: "Cross-disciplinary Scholars in Science and Technology (CSST) project"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Scalable Analytics Institute, University of California, Los Angeles"
+date: July 2017 - Sept. 2017
+location: "Los Angeles, CA"
+---
+
+* Performed independent research on entity representation learning for the development of a medical case report query system, supervised by Prof. Yizhou Sun and Prof. Wei Wang
+* Constructed graphs for annotated domain-specific entities in clinical case reports and implemented an unsupervised graph embedding method with node2vec for the graph representation of case reports
+* Visualized result by projecting the 128-dimensional embedding of 2491 entities into 3D space using PCA
+* Evaluated result by calculating cosine similarity between medical terms and corresponding abbreviations, which
+outperformed Google's word2vec pre-trained word embedding
