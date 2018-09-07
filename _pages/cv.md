@@ -30,10 +30,11 @@ Skills
 * Tools and Framework: Spark, Hadoop, Keras, Caffe, TensorFlow, NumPy, BigDL, Analytics Zoo, NLTK, Maven
 MySQL, Spring Boot, Jenkins, Lucene
 
-Publications
+Publications & Presentations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Xue Xia**, Yichao Zhou, Yizhou Sun. Entity Embedding in Medical Text Data. In UCLA CSST, 2017. (Poster) 
+*	Yiming Zhao, Jin Zhang, **Xue Xia**, Taowen Le. Evaluation of Google Question-Answering Quality. Library Hi Tech, 2018 
+* Yiming Zhao, Feicheng Ma, **Xue Xia**. Evaluating the Coverage of Entities in Knowledge Graphs Behind General Web Search Engines. In The sixth North American Symposium on Knowledge Organization, Champaign, IL, 2017. (Poster)
+* Yiming Zhao, Afeng Wang, **Xue Xia**, Xiangyun Si. Risk Identification of Public Companies Based on Term Cohesion and Topic Visualization. WHICEB 2017 Proceedings, 18, 2017.
   
 
