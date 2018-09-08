@@ -1,0 +1,13 @@
+---
+title: "Disease Evolution Analysis System"
+collection: teaching
+type: "Design and Development of Information System Course Project"
+permalink: 
+venue: "Wuhan University"
+date: Mar. 2017 - June 2017
+location: "Wuhan, China"
+---
+
+* Built a clinical decision support system which demonstrates disease evolution patterns and drug usage details
+* Processed data from MIMIC-III clinical database with Apache Spark and managed data with MySQL
+*	Employed Hidden Markov Model to model disease progression from sequences of clinical measurements and constructed a disease evolution network for visualization with Gephi
